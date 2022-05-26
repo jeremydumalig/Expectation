@@ -3,7 +3,7 @@
 *This project seeks to evaluate player expectations by creating a regression model to predict scoring output. The full project can be found [here](https://jeremydumalig.com/expectation/).*
 
 *Packages/Libraries Used : numpy, pandas, sklearn.ensemble, BeautifulSoup, selenium* <br>
-*Packages/Libraries Used : tidyverse, ggplot, ggnewscale, ggalt, gridExtra, ggimage, cowplot, gt*
+*Packages/Libraries Used : tidyverse, ggplot, gridExtra, cowplot, gt*
 
 <br>
 
