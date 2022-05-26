@@ -1,5 +1,3 @@
-setwd("~/Downloads/Most Improved Player")
-
 library(tidyverse)
 library(ggplot2)
 library(cowplot)
